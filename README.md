@@ -1,4 +1,5 @@
-# MyProjects
+# ShareBillApp
+
 
 Project coded with the intension to facilitate divisions of bills between friends.
 
