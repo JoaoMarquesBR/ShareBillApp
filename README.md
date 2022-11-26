@@ -19,10 +19,10 @@ How the Application works for Users
 
 How the app works for Devs
 
-- Every time a new item is added, item is removed or a fried is removed from the list, It updates itself and calculates the whole application
+- Every time a new item is added, item is removed or a friend is removed from the list, It updates itself and calculates the whole application
 again to make sure all prices maintain according to what has to be.
 
 
 How the app could get better at the moment
 
-- Needing a boost in the layout for user interface
+- Needing a better front-end experience dev.
